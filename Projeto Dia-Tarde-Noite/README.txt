@@ -1,0 +1,1 @@
+This website uses the current time to say " Good Morning", "Good Evening" or " Good Night", changing the picture showed and the collor of the background according to the current time.
