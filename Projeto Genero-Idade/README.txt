@@ -1,0 +1,1 @@
+This website project uses informations provided by users to show the gender and age with different background colors and pictures according the informations geted.
